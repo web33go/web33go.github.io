@@ -1,10 +1,22 @@
 p {
 	color: red;
 	background-color: lightblue;
+	font-size: 30px;
 }	
+
+p.pgreen{
+	color: green;
+}
+
+#pblack {
+	color:black;
+}
+
+body{
+	color=orange;
+}
 h1 {
 	color: blue; 
-    font-size: 60px;
     background-color: lightyellow;
     border: 5px dotted gray;
 }
