@@ -1,0 +1,10 @@
+p {
+	color: red;
+	background-color: lightblue;
+}	
+h1 {
+	color: blue; 
+    font-size: 60px;
+    background-color: lightyellow;
+    border: 5px dotted gray;
+}
