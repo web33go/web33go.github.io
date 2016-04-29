@@ -1,0 +1,9 @@
+@font-face {
+	font-family:" Emblema one";
+	Src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+	url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
+
+H1{
+	font-family: "Emblema one";
+}
