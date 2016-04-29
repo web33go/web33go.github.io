@@ -1,9 +1,9 @@
-@font-face {
-	font-family:" Emblema one";
-	Src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
-	url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+H1{
+	font-family: 'Emblema one', Arial, sans-serif;
 }
 
-H1{
-	font-family: "Emblema one";
+P{
+	font-family: 'Oswald', sans-serif;
+	color:rgb(255,204,0);
 }
+
