@@ -1,0 +1,29 @@
+
+
+h2{
+	font-family: 'Gloria Hallelujah', cursive;
+	color:rgb(255,204,0);
+	font-weight: bold;
+}
+
+
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 14px;
+    background-color:rgb(255,100,63); 
+}
+
+
+h1{
+  font-size: 220%;
+  font-style: oblique;
+  color:white;
+  font-weight: bolder;
+}
+
+p{
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+.ridenumber{color: white;}
