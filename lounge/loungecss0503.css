@@ -1,0 +1,21 @@
+.guarantee {
+	border-color: black;
+	border-width:  1px;
+	border-style: solid;
+	background-color: #a7cece;
+}
+
+p.box {
+	width: 30%;
+	padding: 10%;
+	line-height: 20px;
+	text-align: center;
+	padding-left: 20%;
+	background-color: #6bc5d6;
+	border: dashed 1px #ffffff;
+	border-radius: 15px;
+	margin-bottom: 200px;
+	background-image: url(images/money-bag.png);
+	background-position: top left;
+	background-repeat:repeat-y;
+}
